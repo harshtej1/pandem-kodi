@@ -1,4 +1,5 @@
- .fight
- .knife
- .pandem
+ .classpath
+ .project
+ /node_module
+
 
